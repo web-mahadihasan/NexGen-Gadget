@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Return Window",
+    "description": "Customers may return items within 30 days of the purchase date for a full refund or exchange. The product must be in new, unused condition with all original packaging, accessories, and manuals."
+  },
+  {
+    "title": "Eligibility for Returns",
+    "description": "Products must be unused, unassembled, and in their original packaging to be eligible for a return. Certain products, such as electronics, opened software, and personalized/customized items, are non-returnable. Gift cards and downloadable software are not eligible for returns or refunds."
+  },
+  {
+    "title": "Return Process",
+    "description": "To start a return, please visit your user dashboard, select the item(s) you wish to return, and follow the return instructions provided. A return label will be issued, and you will be guided through the return steps."
+  },
+  {
+    "title": "Refunds",
+    "description": "Once your return has been received and inspected, we will process your refund to your original payment method within 5-7 business days. Shipping fees are non-refundable."
+  },
+  {
+    "title": "Exchanges",
+    "description": "If you prefer an exchange instead of a refund, we will gladly assist. Simply request an exchange for a different color, size, or model from your dashboard. Exchanges are subject to product availability."
+  },
+  {
+    "title": "Damaged or Defective Items",
+    "description": "If you receive a damaged or defective item, please contact our Customer Service team within 7 days of receiving your product. We will offer a full refund or replacement based on your preference."
+  },
+  {
+    "title": "Shipping Costs",
+    "description": "Standard Shipping is free for orders over $50. For orders under $50, a flat shipping rate will apply. Return Shipping: The customer is responsible for return shipping costs unless the product is defective or damaged. We are not responsible for any lost or damaged items returned without a tracking number."
+  },
+  {
+    "title": "Warranty",
+    "description": "Many of our products come with a manufacturer's warranty. Warranty terms vary by product, and all warranty claims must be submitted directly through the manufacturer. Please refer to the product’s documentation for specific warranty details."
+  },
+  {
+    "title": "Order Cancellations",
+    "description": "Orders can be canceled within 24 hours of placing the order. After this period, we cannot guarantee cancellation as orders may have already been processed for shipping."
+  },
+  {
+    "title": "International Returns",
+    "description": "We currently do not accept returns for international orders outside the United States. For international shipping issues, please contact our support team for further assistance."
+  },
+  {
+    "title": "Incorrect Shipping Information",
+    "description": "If you provided incorrect or incomplete shipping information, and the package is returned to us, we will contact you for a re-shipment. Additional shipping charges may apply."
+  },
+  {
+    "title": "Privacy Policy",
+    "description": "Your privacy and security are important to us. We protect your personal information in accordance with our Privacy Policy, which you can review at any time on our website. All return and payment transactions are processed through a secure payment gateway."
+  },
+  {
+    "title": "Product Availability",
+    "description": "While we do our best to keep our product listings up-to-date, we cannot guarantee the availability of every item at the time of purchase. If an item is out of stock or unavailable, we will notify you promptly and offer a suitable alternative or a full refund."
+  },
+  {
+    "title": "Customer Support",
+    "description": "Our dedicated Customer Support team is available to assist you with any inquiries regarding returns, exchanges, or issues with your order. You can reach us via email, phone, or live chat. We are here to ensure your shopping experience is seamless and satisfying."
+  }
+]
